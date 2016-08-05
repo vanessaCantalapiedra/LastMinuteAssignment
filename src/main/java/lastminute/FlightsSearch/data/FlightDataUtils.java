@@ -46,6 +46,6 @@ public class FlightDataUtils {
 	    public static final String LOG_FILE = "lastminuteFlightSearch.log";
 	    
 	    //DATA VALUES
-	    public static final String DATA_PATH = "FLIGHTS.txt";
+	    public static final String DATA_PATH = "flights.txt";
 	    
 }
