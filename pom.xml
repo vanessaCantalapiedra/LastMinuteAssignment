@@ -51,6 +51,10 @@
 <testResources>
   <testResource>
     <directory>${basedir}/src/test/resources</directory>
+     <filtering>false</filtering>
+            <includes>
+              <include>flights.txt</include>
+     </includes>
   </testResource>
  </testResources>
 
